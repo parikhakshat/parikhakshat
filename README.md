@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔒I'm working on my custom fuzzer and hypervisor for full system fuzzing for kernels.<br>🌱I'm currently learning about Windows kernel internals and the essentials of virtualization.<br>💬Ask me about fuzzing, cybersecurity, tool development 
+🔒I'm working on my custom fuzzer and hypervisor for full system fuzzing for kernels.<br>🌱I'm currently learning about Windows kernel internals and the essentials of virtualization.<br>💬Ask me about fuzzing, cybersecurity, tool development, or distributed systems.
 
 
 ## 🌐 Socials:
